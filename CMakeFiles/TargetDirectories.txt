@@ -1,0 +1,3 @@
+/home/eduardo/Desktop/Utec/2020-01/algoritmos/presentaciones/presentacion1/CMakeFiles/rebuild_cache.dir
+/home/eduardo/Desktop/Utec/2020-01/algoritmos/presentaciones/presentacion1/CMakeFiles/IntroSort.dir
+/home/eduardo/Desktop/Utec/2020-01/algoritmos/presentaciones/presentacion1/CMakeFiles/edit_cache.dir
