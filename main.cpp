@@ -17,19 +17,19 @@ int main(){
     while(cin >> number){
         v.push_back(number);
     }
-    cout << "-----ORIGINAL-----" << endl;
+    cout << "----ORIGINAL-----" << endl;
     printVector(v);
     cout << endl;
-    cout << "-----QUICK-----" << endl;
+    cout << "----QUICK-----" << endl;
     callQuick(v);
     cout << endl;
-    cout << "-----INSERTION-----" << endl;
+    cout << "----INSERTION-----" << endl;
     callInsertion(v);
     cout << endl;
-    cout << "-----HEAP-----" << endl;
+    cout << "----HEAP-----" << endl;
     callHeap(v);
     cout << endl;
-    cout << "-----INTRO-----" << endl;
+    cout << "----INTRO-----" << endl;
     callIntro(v);
 
     
