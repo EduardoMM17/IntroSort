@@ -231,6 +231,33 @@ quickSort.cpp.s:
 	$(MAKE) -f CMakeFiles/IntroSort.dir/build.make CMakeFiles/IntroSort.dir/quickSort.cpp.s
 .PHONY : quickSort.cpp.s
 
+sortIntro.o: sortIntro.cpp.o
+
+.PHONY : sortIntro.o
+
+# target to build an object file
+sortIntro.cpp.o:
+	$(MAKE) -f CMakeFiles/IntroSort.dir/build.make CMakeFiles/IntroSort.dir/sortIntro.cpp.o
+.PHONY : sortIntro.cpp.o
+
+sortIntro.i: sortIntro.cpp.i
+
+.PHONY : sortIntro.i
+
+# target to preprocess a source file
+sortIntro.cpp.i:
+	$(MAKE) -f CMakeFiles/IntroSort.dir/build.make CMakeFiles/IntroSort.dir/sortIntro.cpp.i
+.PHONY : sortIntro.cpp.i
+
+sortIntro.s: sortIntro.cpp.s
+
+.PHONY : sortIntro.s
+
+# target to generate assembly for a file
+sortIntro.cpp.s:
+	$(MAKE) -f CMakeFiles/IntroSort.dir/build.make CMakeFiles/IntroSort.dir/sortIntro.cpp.s
+.PHONY : sortIntro.cpp.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -252,6 +279,9 @@ help:
 	@echo "... quickSort.o"
 	@echo "... quickSort.i"
 	@echo "... quickSort.s"
+	@echo "... sortIntro.o"
+	@echo "... sortIntro.i"
+	@echo "... sortIntro.s"
 .PHONY : help
 
 

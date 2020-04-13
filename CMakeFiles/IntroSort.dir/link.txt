@@ -1,1 +1,1 @@
-/usr/bin/c++     CMakeFiles/IntroSort.dir/main.cpp.o CMakeFiles/IntroSort.dir/quickSort.cpp.o CMakeFiles/IntroSort.dir/insertionSort.cpp.o CMakeFiles/IntroSort.dir/heapSort.cpp.o  -o IntroSort 
+/usr/bin/c++     CMakeFiles/IntroSort.dir/main.cpp.o CMakeFiles/IntroSort.dir/quickSort.cpp.o CMakeFiles/IntroSort.dir/insertionSort.cpp.o CMakeFiles/IntroSort.dir/heapSort.cpp.o CMakeFiles/IntroSort.dir/sortIntro.cpp.o  -o IntroSort 

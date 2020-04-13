@@ -3,6 +3,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/IntroSort.dir/quickSort.cpp.o"
   "CMakeFiles/IntroSort.dir/insertionSort.cpp.o"
   "CMakeFiles/IntroSort.dir/heapSort.cpp.o"
+  "CMakeFiles/IntroSort.dir/sortIntro.cpp.o"
   "IntroSort.pdb"
   "IntroSort"
 )

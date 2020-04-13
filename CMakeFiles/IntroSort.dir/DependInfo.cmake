@@ -8,6 +8,7 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "/home/eduardo/Desktop/Utec/2020-01/algoritmos/presentaciones/presentacion1/insertionSort.cpp" "/home/eduardo/Desktop/Utec/2020-01/algoritmos/presentaciones/presentacion1/CMakeFiles/IntroSort.dir/insertionSort.cpp.o"
   "/home/eduardo/Desktop/Utec/2020-01/algoritmos/presentaciones/presentacion1/main.cpp" "/home/eduardo/Desktop/Utec/2020-01/algoritmos/presentaciones/presentacion1/CMakeFiles/IntroSort.dir/main.cpp.o"
   "/home/eduardo/Desktop/Utec/2020-01/algoritmos/presentaciones/presentacion1/quickSort.cpp" "/home/eduardo/Desktop/Utec/2020-01/algoritmos/presentaciones/presentacion1/CMakeFiles/IntroSort.dir/quickSort.cpp.o"
+  "/home/eduardo/Desktop/Utec/2020-01/algoritmos/presentaciones/presentacion1/sortIntro.cpp" "/home/eduardo/Desktop/Utec/2020-01/algoritmos/presentaciones/presentacion1/CMakeFiles/IntroSort.dir/sortIntro.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

@@ -13,6 +13,8 @@ vector
 -
 algorithm
 -
+math.h
+-
 
 /home/eduardo/Desktop/Utec/2020-01/algoritmos/presentaciones/presentacion1/heapSort.cpp
 heapSort.h
@@ -37,12 +39,28 @@ insertionSort.h
 /home/eduardo/Desktop/Utec/2020-01/algoritmos/presentaciones/presentacion1/insertionSort.h
 heapSort.h
 /home/eduardo/Desktop/Utec/2020-01/algoritmos/presentaciones/presentacion1/heapSort.h
+sortIntro.h
+/home/eduardo/Desktop/Utec/2020-01/algoritmos/presentaciones/presentacion1/sortIntro.h
 
 /home/eduardo/Desktop/Utec/2020-01/algoritmos/presentaciones/presentacion1/quickSort.cpp
 quickSort.h
 /home/eduardo/Desktop/Utec/2020-01/algoritmos/presentaciones/presentacion1/quickSort.h
 
 /home/eduardo/Desktop/Utec/2020-01/algoritmos/presentaciones/presentacion1/quickSort.h
+commonService.h
+/home/eduardo/Desktop/Utec/2020-01/algoritmos/presentaciones/presentacion1/commonService.h
+
+/home/eduardo/Desktop/Utec/2020-01/algoritmos/presentaciones/presentacion1/sortIntro.cpp
+sortIntro.h
+/home/eduardo/Desktop/Utec/2020-01/algoritmos/presentaciones/presentacion1/sortIntro.h
+
+/home/eduardo/Desktop/Utec/2020-01/algoritmos/presentaciones/presentacion1/sortIntro.h
+quickSort.h
+/home/eduardo/Desktop/Utec/2020-01/algoritmos/presentaciones/presentacion1/quickSort.h
+insertionSort.h
+/home/eduardo/Desktop/Utec/2020-01/algoritmos/presentaciones/presentacion1/insertionSort.h
+heapSort.h
+/home/eduardo/Desktop/Utec/2020-01/algoritmos/presentaciones/presentacion1/heapSort.h
 commonService.h
 /home/eduardo/Desktop/Utec/2020-01/algoritmos/presentaciones/presentacion1/commonService.h
 
