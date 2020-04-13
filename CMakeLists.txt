@@ -3,4 +3,6 @@ project(IntroSort)
 
 set(CMAKE_CXX_STANDARD 14)
 
+#c
+
 add_executable(IntroSort main.cpp quickSort.h quickSort.cpp commonService.h insertionSort.h insertionSort.cpp heapSort.h heapSort.cpp sortIntro.h sortIntro.cpp)
